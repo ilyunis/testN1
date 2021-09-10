@@ -13,5 +13,5 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     
-    - name: print hello
-    - run: echo " hello"
+    - name: printhello
+      run: echo " hello"
